@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Campton';
+    src: url(Campton\ Book.otf);
+}
+
+body {
+    height: 100vh;
+    margin: 20%;
+    margin-top: 5%;
+    font-family: 'Campton';
+    color: whitesmoke;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(340deg, rgba(2, 0, 36, 1) 0%, rgba(65, 31, 104, 1) 35%, rgba(182, 169, 208, 1) 100%);
+}
+
+.box {
+    background-color: #270741;
+    padding: 10px;
+    margin: 0;
+    height: 50vh;
+}
+
+a {
+    color: #e2dded;
+}
